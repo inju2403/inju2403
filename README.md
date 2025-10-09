@@ -1,4 +1,4 @@
-### Dreaming of a great iOS developer
+### Dreaming of becoming a great iOS developer
     
 #### ✨ Hits
 [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finju2403&count_bg=%27F7AAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=white&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
