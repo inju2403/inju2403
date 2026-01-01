@@ -1,7 +1,7 @@
 ### Dreaming of becoming a great iOS developer
     
 #### ✨ Hits
-![](https://komarev.com/ghpvc/?username=inju2403&label=hits&color=92A8D1&style=for-the-badge)
+![](https://api.visitorbadge.io/api/VisitorHit?user=inju2403&repo=inju2403&label=hits&labelColor=%2392A8D1&countColor=%23F7AAC9)
 
 
 #### ✨ Blog
