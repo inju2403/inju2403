@@ -1,7 +1,7 @@
 ### Dreaming of becoming a great iOS developer
     
 #### ✨ Hits
-<img src="https://profile-counter.deno.dev/inju2403/count.svg" alt="inju2403 :: Profile Views" />
+![](https://komarev.com/ghpvc/?username=inju2403&label=hits&color=92A8D1&style=for-the-badge)
 
 
 #### ✨ Blog
