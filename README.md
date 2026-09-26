@@ -1,5 +1,13 @@
-### Dreaming of becoming a great iOS developer
+# Seungju Lee
 
-#### ✨ Dev log
-![GitHub followers](https://img.shields.io/github/followers/inju2403?label=followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/inju2403?style=social)
+Software engineer at [Kakao](https://www.kakaocorp.com/page/).
+
+### Contributing to
+
+- [`swift-collections`](https://github.com/apple/swift-collections)
+- [`idb`](https://github.com/facebook/idb)
+
+### Author of
+
+- [`OrderedSet.replace(at:with:)`](<https://swiftpackageindex.com/apple/swift-collections/main/documentation/orderedcollections/orderedset/replace(at:with:)>)
+- [`OrderedDictionary.replaceElement(at:withKey:value:)`](<https://swiftpackageindex.com/apple/swift-collections/main/documentation/orderedcollections/ordereddictionary/replaceelement(at:withkey:value:)>)
